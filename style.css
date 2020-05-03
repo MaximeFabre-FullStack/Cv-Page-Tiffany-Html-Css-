@@ -1,0 +1,95 @@
+body a {
+  text-decoration: none;
+  color: black;
+}
+
+body a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.orange {
+  color: #ffe0ab;
+}
+
+.profilPicture {
+  border-radius: 60%;
+  width: 320px;
+  height: 350px;
+  border-left: 3px solid #f9eede;
+  margin-left: 150px;
+  margin-top: 80px;
+}
+
+.contactBar {
+  background-color: #e3f7f6;
+  text-align: center;
+  width: 25%;
+  margin-right: 80px;
+  margin-top: 50px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.frenchFlag {
+  width: 70px;
+  height: 45px;
+}
+
+.ukFlag {
+  margin-left: 40px;
+  width: 70px;
+  height: 45px;
+}
+
+.tinyIcons {
+  width: 65px;
+  height: 65px;
+}
+
+.tinyIcons1 {
+  width: 30px;
+  height: 30px;
+}
+
+.mt-15 {
+  margin-top: 15px;
+}
+
+.ml-20 {
+  margin-left: 20px;
+}
+
+.mr-20 {
+  margin-right: 20px;
+}
+
+.ft-italic {
+  font-style: italic;
+}
+
+.workExperiencesBar {
+  text-align: left;
+  width: 40%;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.educationBar {
+  text-align: left;
+  position: absolute;
+  width: 40%;
+  right: 0;
+  margin-top: -100px;
+  margin-right: 80px;
+}
+
+.hobbiesBar {
+  text-align: left;
+  width: 40%;
+  margin-top: 50px;
+  margin-left: 50px;
+}
