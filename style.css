@@ -24,8 +24,8 @@ body a:hover {
 .contactBar {
   background-color: #e3f7f6;
   text-align: center;
-  width: 25%;
-  margin-right: 80px;
+  width: 35%;
+  margin-right: 100px;
   margin-top: 50px;
   position: absolute;
   top: 0;
@@ -46,8 +46,8 @@ body a:hover {
 }
 
 .tinyIcons {
-  width: 65px;
-  height: 65px;
+  width: 75px;
+  height: 75px;
 }
 
 .tinyIcons1 {
@@ -74,7 +74,7 @@ body a:hover {
 .workExperiencesBar {
   text-align: left;
   width: 40%;
-  margin-top: 50px;
+  margin-top: 90px;
   margin-left: 50px;
 }
 
@@ -83,13 +83,46 @@ body a:hover {
   position: absolute;
   width: 40%;
   right: 0;
-  margin-top: -100px;
+  margin-top: -400px;
   margin-right: 80px;
+  margin-bottom: 60px;
 }
 
 .hobbiesBar {
   text-align: left;
   width: 40%;
-  margin-top: 50px;
+  margin-top: 90px;
   margin-left: 50px;
+}
+
+.progressBarContainer {
+  display: inline-flex;
+  margin-left: 50px;
+}
+.progressBarContainer1 {
+  display: inline-flex;
+}
+
+.progressBar {
+  border: 1px solid black;
+  width: 7px;
+  height: 7px;
+  margin-left: 3.5px;
+  margin-top: 5px;
+}
+
+.bg-orange {
+  background-color: orange;
+}
+
+.bg-fushia {
+  background-color: fuchsia;
+}
+
+.bg-blue {
+  background-color: dodgerblue;
+}
+
+.pbContainer {
+  margin-right: auto;
 }
